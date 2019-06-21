@@ -8,11 +8,10 @@
 ### Requirements
 - Redis 3
 - Active MQ 5
-- gradle 5.4
 - java 1.8.131 (min)
 
 ### Run
-gradle bootRun
+gradlew bootRun
 
 ### Architecture
 ![](cache.png)
